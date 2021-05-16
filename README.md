@@ -50,7 +50,7 @@ opam install coq-mathcomp-ssreflect
 ## Running the application:
 Once a file has been opened in Coq, there will be five buttons on the top task bar that will be used to control the running of the program. 
 
-![Coq Buttons](Pictures/CoqGuide.png)
+![Coq Buttons](CoqGuide.png)
 
 
 From left to right:
