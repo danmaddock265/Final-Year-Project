@@ -88,6 +88,5 @@ Proof.
   rewrite -> h_encrypt_a.
   rewrite <- h_valid_public_key.
   reflexivity.
-  reflexivity.
 Qed.
 Print prove_validity_of_Diffie_Hellman.
